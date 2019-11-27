@@ -1,3 +1,3 @@
-# Relay_Board_4CH
+# Relay Board 4CH
 
 4 Channel Relay Board. 
